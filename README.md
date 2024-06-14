@@ -24,7 +24,7 @@ The face recognition application uses one-shot learning to identify individuals 
 3. **One-Shot Learning**: The system uses a pre-trained model to recognize the face.
 4. **Record Attendance**: The recognized individual's attendance is recorded in the database.
 
-![Recognition Process](face rec.png)
+![Recognition Process](rec.png)
 
 ### Attendance Data Dashboard
 The dashboard provides an analysis of the attendance data collected. Here’s a brief workflow:
