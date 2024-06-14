@@ -5,17 +5,16 @@ This project combines one-shot learning for face recognition with data analysis 
 1. **Face Recognition and Attendance Data Gathering** - Implemented in Python.
 2. **Attendance Data Dashboard** - Implemented in R.
 
+![](app digram - Page 1.png)
+
 ## Table of Contents
 - [Overview](#overview)
 - [How It Works](#how-it-works)
   - [Face Recognition Application](#face-recognition-application)
   - [Attendance Data Dashboard](#attendance-data-dashboard)
 - [Screenshots and GIFs](#screenshots-and-gifs)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Features](#features)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## How It Works
 ### Face Recognition Application
@@ -24,6 +23,8 @@ The face recognition application uses one-shot learning to identify individuals 
 2. **Preprocess Image**: The image is preprocessed to enhance recognition accuracy.
 3. **One-Shot Learning**: The system uses a pre-trained model to recognize the face.
 4. **Record Attendance**: The recognized individual's attendance is recorded in the database.
+
+![](face rec.png)
 
 ### Attendance Data Dashboard
 The dashboard provides an analysis of the attendance data collected. Here’s a brief workflow:
@@ -57,14 +58,3 @@ The dashboard provides an analysis of the attendance data collected. Here’s a 
 ![Data Tab](dash3.gif)
 
 *Image: The attendance data dashboard showing visualized data.*
-
-## Installation
-### Prerequisites
-- Python 3.x
-- R and RStudio
-- Necessary libraries listed in the respective application's `requirements.txt` or `DESCRIPTION` file.
-
-### Steps
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/yourusername/Attendance-System-Face-Recognition.git
