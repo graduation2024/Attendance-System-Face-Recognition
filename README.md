@@ -45,9 +45,12 @@ The dashboard provides an analysis of the attendance data collected. Here’s a 
 ### Dashboard 
 #### Main Tab
 ![Main Tab](dash1.gif)
+
 *Image: The attendance data dashboard showing visualized data.*
+
 #### Individual Info
 ![Individual Info](dash2.gif)
+
 *Image: The attendance data dashboard showing visualized data.*
 
 ## Installation
