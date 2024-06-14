@@ -33,7 +33,7 @@ The dashboard provides an analysis of the attendance data collected. Here’s a 
 
 ## Screenshots and GIFs
 ### Face Recognition Application
-![Face Recognition App](recognition.gif)
+![Face Recognition App](recognitio.gif)
 *Image: The face recognition application capturing and processing an image.*
 
 ### Attendance Data Dashboard
