@@ -32,12 +32,17 @@ The dashboard provides an analysis of the attendance data collected. Here’s a 
 3. **Visualization**: The processed data is visualized using interactive charts and graphs.
 
 ## Screenshots and GIFs
-### Face Recognition Application
-![Face Recognition App](recognition.gif)
-*Image: The face recognition application capturing and processing an image.*
-
 ### Registration
 ![Registration](rEg.gif)
+
+*Image: Regestering a new user.*
+
+### Face Recognition Application
+![Face Recognition App](recognitio.gif)
+
+*Image: The face recognition application capturing and processing an image.*
+
+
 *Image: The attendance data dashboard showing visualized data.*
 
 ## Installation
