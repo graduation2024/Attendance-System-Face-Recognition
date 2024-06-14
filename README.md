@@ -33,7 +33,7 @@ The dashboard provides an analysis of the attendance data collected. Here’s a 
 
 ## Screenshots and GIFs
 ### Registration
-![Registration](rEg.gif)
+![Registration](registration.gif)
 
 *Image: Regestering a new user.*
 
