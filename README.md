@@ -38,7 +38,7 @@ The dashboard provides an analysis of the attendance data collected. Here’s a 
 *Image: Regestering a new user.*
 
 ### Recognition & Attendnace tracking
-![Recognition & Attendnace tracking](recognition.gif)
+![Recognition & Attendnace tracking](recognitio.gif)
 
 *Image: The face recognition application capturing and processing an image.*
 
