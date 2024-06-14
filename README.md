@@ -53,6 +53,11 @@ The dashboard provides an analysis of the attendance data collected. Here’s a 
 
 *Image: The attendance data dashboard showing visualized data.*
 
+#### Data Tab
+![Data Tab](dash3.gif)
+
+*Image: The attendance data dashboard showing visualized data.*
+
 ## Installation
 ### Prerequisites
 - Python 3.x
