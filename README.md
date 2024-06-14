@@ -31,29 +31,29 @@ The dashboard provides an analysis of the attendance data collected. Here’s a 
 2. **Data Processing**: The data is processed to extract meaningful insights.
 3. **Visualization**: The processed data is visualized using interactive charts and graphs.
 
-## Screenshots and GIFs
+## Visual Dimonstration
 ### Registration
 ![Registration](gg.gif)
 
-*Image: Regestering a new user.*
+
 
 ### Recognition & Attendnace tracking
 ![Recognition & Attendnace tracking](recognitio.gif)
 
-*Image: The face recognition application capturing and processing an image.*
+
 
 ### Dashboard 
 #### Main Tab
 ![Main Tab](dash1.gif)
 
-*Image: The attendance data dashboard showing visualized data.*
+
 
 #### Individual Info
 ![Individual Info](dash2.gif)
 
-*Image: Showing visualized Individual data.*
+
 
 #### Data Tab
 ![Data Tab](dash3.gif)
 
-*Image: The attendance data dashboard showing visualized data.*
+
