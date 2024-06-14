@@ -5,7 +5,7 @@ This project combines one-shot learning for face recognition with data analysis 
 1. **Face Recognition and Attendance Data Gathering** - Implemented in Python.
 2. **Attendance Data Dashboard** - Implemented in R.
 
-![Application diagram](app.png)
+![Application diagram](gifs&images/app.png)
 
 ## Table of Contents
 - [Overview](#overview)
@@ -23,7 +23,7 @@ The face recognition application uses one-shot learning to identify individuals 
 3. **One-Shot Learning**: The system uses a pre-trained model to recognize the face.
 4. **Record Attendance**: The recognized individual's attendance is recorded in the database.
 
-![Recognition Process](rec.png)
+![Recognition Process](gifs&images/rec.png)
 
 ### Attendance Data Dashboard
 The dashboard provides an analysis of the attendance data collected. Here’s a brief workflow:
@@ -33,27 +33,27 @@ The dashboard provides an analysis of the attendance data collected. Here’s a 
 
 ## Visual Dimonstration
 ### Registration
-![Registration](gg.gif)
+![Registration](gifs&images/gg.gif)
 
 
 
 ### Recognition & Attendnace tracking
-![Recognition & Attendnace tracking](recognitio.gif)
+![Recognition & Attendnace tracking](gifs&images/recognitio.gif)
 
 
 
 ### Dashboard 
 #### Main Tab
-![Main Tab](dash1.gif)
+![Main Tab](gifs&images/dash1.gif)
 
 
 
 #### Individual Info
-![Individual Info](dash2.gif)
+![Individual Info](gifs&images/dash2.gif)
 
 
 
 #### Data Tab
-![Data Tab](dash3.gif)
+![Data Tab](gifs&images/dash3.gif)
 
 
