@@ -36,8 +36,8 @@ The dashboard provides an analysis of the attendance data collected. Here’s a 
 ![Face Recognition App](recognitio.gif)
 *Image: The face recognition application capturing and processing an image.*
 
-### Attendance Data Dashboard
-![Attendance Dashboard](recognition.mp4)
+### Registration
+![Registration](rEg.gif)
 *Image: The attendance data dashboard showing visualized data.*
 
 ## Installation
