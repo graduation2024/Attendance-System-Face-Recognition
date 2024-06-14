@@ -12,7 +12,7 @@ This project combines one-shot learning for face recognition with data analysis 
 - [How It Works](#how-it-works)
   - [Face Recognition Application](#face-recognition-application)
   - [Attendance Data Dashboard](#attendance-data-dashboard)
-- [Screenshots and GIFs](#Visual-Dimonstration)
+- [Visual Demonstration](#Visual-Dimonstration)
 
 
 ## How It Works
