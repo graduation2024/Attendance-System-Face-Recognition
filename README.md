@@ -5,7 +5,7 @@ This project combines one-shot learning for face recognition with data analysis 
 1. **Face Recognition and Attendance Data Gathering** - Implemented in Python.
 2. **Attendance Data Dashboard** - Implemented in R.
 
-![Application diagram](app digram - Page 1.png)
+![Application diagram](app.png)
 
 ## Table of Contents
 - [Overview](#overview)
